@@ -2,7 +2,7 @@
 
 ## État vérifié le 3 novembre 2026
 
-- Source : `cortexAI-2025/forum_aiworkpay`, base `260dc7581e8ed30a9749189801938c5ade66441b`.
+- Source : `AiWorkPay-SASU/forum_aiworkpay`, base `260dc7581e8ed30a9749189801938c5ade66441b`.
 - Projet Vercel créé : `forum-aiworkpay`, équipe `ahmeds-projects-547d6c73`, Node.js 24, région fonctions Paris.
 - Ancien domaine et domaine Railway généré : HTTP 404 « Application not found ».
 - Un volume Railway `forum-data` existe et reste monté sur `/data`. Son contenu n'a pas été lu ni modifié ; la présence et le nombre d'anciens messages restent inconnus.
